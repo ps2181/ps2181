@@ -9,54 +9,69 @@
 
 # 💻 Tech Stack:
 
-### Languages
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-![Rust](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg)
-![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
-![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)
-![PowerShell](https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg)
 
-### Tools & Platforms
-![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
-![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)
-![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
+<h3>Languages</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40" height="40" />
+</p>
 
-### Libraries & Frameworks
-![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg)
-![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg)
-![Scikit-learn](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg)
-![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)
-![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg)
-![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)
-![FastAPI](https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg)
+<h3>Tools & Platforms</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" />
+</p>
 
-### Databases
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
-![Postgres](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)
+<h3>Libraries & Frameworks</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" />
+</p>
 
-### Cloud & DevOps
-![Google Cloud](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg)
+<h3>Databases</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+</p>
 
-### Cybersecurity & Others
-![Wireshark](https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg)
-![Nmap](https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg)
-![Metasploit](https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg)
-![Burp Suite](https://raw.githubusercontent.com/devicons/devicon/master/icons/burp/burp-original.svg)
-![Kafka](https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg)
-![JWT](https://raw.githubusercontent.com/devicons/devicon/master/icons/jwt/jwt-original.svg)
+<h3>Cloud & DevOps</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
+</p>
 
-### Other Tools
-![Jira](https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg)
-![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg)
-![Jenkins](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg)
-![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
+<h3>Cybersecurity & Others</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burp/burp-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jwt/jwt-original.svg" width="40" height="40" />
+</p>
+
+<h3>Other Tools</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" />
+</p>
 
 
 # 📊 GitHub Stats:
