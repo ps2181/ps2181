@@ -8,56 +8,55 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritam-satpathy-9a8aa4244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hellopritam31@gmail.com) 
 
 # 💻 Tech Stack:
-# Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23F7DF1E.svg?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![Rust](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg)
+![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
+![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)
+![PowerShell](https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg)
 
 ### Tools & Platforms
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
+![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)
+![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
 
 ### Libraries & Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg)
+![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg)
+![Scikit-learn](https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg)
+![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)
+![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg)
+![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)
+![FastAPI](https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
+![Postgres](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)
 
 ### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg)
 
 ### Cybersecurity & Others
-![Wireshark](https://img.shields.io/badge/Wireshark-1678C2?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/nmap-%23FF0000.svg?style=flat&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23E23237.svg?style=flat&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%230A0FFF.svg?style=flat&logo=burpsuite&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![Wireshark](https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg)
+![Nmap](https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg)
+![Metasploit](https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg)
+![Burp Suite](https://raw.githubusercontent.com/devicons/devicon/master/icons/burp/burp-original.svg)
+![Kafka](https://raw.githubusercontent.com/devicons/devicon/master/icons/kafka/kafka-original.svg)
+![JWT](https://raw.githubusercontent.com/devicons/devicon/master/icons/jwt/jwt-original.svg)
 
 ### Other Tools
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Jira](https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg)
+![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg)
+![Jenkins](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg)
+![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
 
 
 # 📊 GitHub Stats:
